@@ -46,10 +46,7 @@ Here's a snapshot of my tech stack:
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-**Web Scraping**:
-- ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%2300FF00.svg?style=flat)
-- ![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=flat)
-- ![Selenium](https://img.shields.io/badge/Selenium-%23000000.svg?style=flat)
+**Web Scraping**: ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%2300FF00.svg?style=flat) ![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=flat) ![Selenium](https://img.shields.io/badge/Selenium-%23000000.svg?style=flat)
 
 
 - **Other**:
