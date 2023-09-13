@@ -10,11 +10,11 @@
 ## 💻 Tech Stack
 Here's a snapshot of my tech stack:
 
-- **Programming Languages**: 
+- **Programming Languages**:
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   
 - **Web Development**:
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -29,10 +29,12 @@ Here's a snapshot of my tech stack:
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
 - **Frameworks & Libraries**:
-  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+- ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+
 
 - **Databases**:
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
@@ -48,6 +50,12 @@ Here's a snapshot of my tech stack:
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+**Web Scraping**:
+- ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%2300FF00.svg?style=flat)
+- ![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=flat)
+- ![Selenium](https://img.shields.io/badge/Selenium-%23000000.svg?style=flat)
+
 
 - **Other**:
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
