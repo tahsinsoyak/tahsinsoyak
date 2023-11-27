@@ -55,5 +55,4 @@ Here's a snapshot of my tech stack:
 
 Feel free to ask me about any specific technology or tool!
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tahsinsoyak&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Profile Visits](https://visitcount.itsvg.in/api?id=tahsinsoyak&icon=0&color=6)](https://visitcount.itsvg.in)
