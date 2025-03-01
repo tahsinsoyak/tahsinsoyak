@@ -53,9 +53,6 @@ Here's a snapshot of my tech stack:
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
   ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
 
-Feel free to ask me about any specific technology or tool!
-## 📊 GitHub Stats
-[![Profile Visits](https://visitcount.itsvg.in/api?id=tahsinsoyak&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <div align=center>
   <h3>🔥 Streak Stats</h3>
@@ -71,15 +68,8 @@ Feel free to ask me about any specific technology or tool!
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img alt="tahsinsoyaks's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=selcukakarin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="selcukakarin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=selcukakarin&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img alt="tahsinsoyaks's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tahsinsoyak&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tahsinsoyak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tahsinsoyak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" /></a>
 </div>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="selcukakarin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tahsinsoyak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
