@@ -1,12 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects and AI. I have object recognition<br>and artificial intelligence projects in competitions.
+<h2 align="center">💫 About Me</h2>
+<p align="center"> 🔭 I’m currently working on personal projects and AI. I have object recognition<br>and artificial intelligence projects in competitions.</p>
 
-
-## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/tahsin-soyak-669650231)
+<h2 align="center"></h2>
+<p align="center"> </p>
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">- [LinkedIn](https://linkedin.com/in/tahsin-soyak-669650231)
 - [Medium](https://medium.com/@tahsinsoyakk)
 - [Stack Overflow](https://stackoverflow.com/users/16888689)
-- [Twitter](https://twitter.com/tahsinsoyakk)
+- [Twitter](https://twitter.com/tahsinsoyakk) </p>
+
+
 ## 💻 Tech Stack
 Here's a snapshot of my tech stack:
 
@@ -64,4 +67,4 @@ Here's a snapshot of my tech stack:
    
   </p>
  </div>
-  <h2 align="center">💻 GitHub Profile Stats</h2>
+  
