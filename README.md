@@ -4,12 +4,12 @@
 <h2 align="center"></h2>
 <p align="center"> </p>
 <h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-- [LinkedIn](https://linkedin.com/in/tahsin-soyak-669650231)
-- [Medium](https://medium.com/@tahsinsoyakk)
-- [Stack Overflow](https://stackoverflow.com/users/16888689)
-- [Twitter](https://twitter.com/tahsinsoyakk)
- </p>
+<div align="center">
+  <a href="https://linkedin.com/in/tahsin-soyak-669650231">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://medium.com/@tahsinsoyakk">Medium</a> &nbsp;|&nbsp;
+  <a href="https://stackoverflow.com/users/16888689">Stack Overflow</a> &nbsp;|&nbsp;
+  <a href="https://twitter.com/tahsinsoyakk">Twitter</a>
+</div>
 
 ## 💻 Tech Stack
 Here's a snapshot of my tech stack:
