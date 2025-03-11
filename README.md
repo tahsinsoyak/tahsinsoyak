@@ -2,8 +2,9 @@
 
 <h2>💫 About Me</h2>
 <p>
-  🔭 I’m currently working on personal projects and AI. I have object recognition<br>
-  and artificial intelligence projects in competitions.
+  🔭 R&D Engineer
+
+A dedicated AI and Python Developer with a strong foundation in machine learning, deep learning, and large language models. Experienced in building end-to-end solutions—from data acquisition via web scraping to deploying advanced AI applications in production. Skilled at delivering high-impact projects, such as NLP-based recruitment tools, medical imaging systems, and cutting-edge research solutions, while leading cross-functional teams in both academic and industry settings. Committed to continuous innovation, community engagement, and fostering tech excellence through leadership roles and volunteer initiatives.
 </p>
 
 <h2>🌐 Connect with Me</h2>
