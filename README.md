@@ -31,7 +31,7 @@
 
 <div align="center">
 
-#### 🏆 Trophy & Streak
+#### 🏆 Streak & Trophy
 <div>
 
   <a href="https://git.io/streak-stats">
