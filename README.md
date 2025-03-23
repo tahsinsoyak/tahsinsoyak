@@ -44,7 +44,7 @@
 
 #### 📈 Overview & Languages
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tahsinsoyak&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" height="172px">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahsinsoyak&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="172px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinsoyak&layout=compact&theme=onedark&hide_border=true&hide=html,css" height="172px">
 </div>
 
