@@ -1,95 +1,83 @@
-<div align="left">
+# Tahsin Soyak - AI Developer, R&D Engineer 💻
 
-<h2>💫 About Me</h2>
-<p>
-  🔭 R&D Engineer
+[![Visitors](https://komarev.com/ghpvc/?username=tahsinsoyak&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/tahsinsoyak)
+[![GitHub Followers](https://img.shields.io/github/followers/tahsinsoyak?label=Follow&style=social)](https://github.com/tahsinsoyak)
+[![Medium Follow](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@tahsinsoyakk)
 
-A dedicated AI and Python Developer with a strong foundation in machine learning, deep learning, and large language models. Experienced in building end-to-end solutions—from data acquisition via web scraping to deploying advanced AI applications in production. Skilled at delivering high-impact projects, such as NLP-based recruitment tools, medical imaging systems, and cutting-edge research solutions, while leading cross-functional teams in both academic and industry settings. Committed to continuous innovation, community engagement, and fostering tech excellence through leadership roles and volunteer initiatives.
-</p>
+- 🏆 6x Honor Certificate Recipient | Microsoft Student Ambassador
+- � 2+ Years Experience in AI Development | 10+ Production Projects
+- 📝 Published Researcher in Computer Vision & ML Applications
+- 🏅 Certified in LLMs (Google), TensorFlow (DeepLearning.AI), MLOps (NVIDIA)
 
-<h2>🌐 Connect with Me</h2>
-<p>
-  <a href="https://linkedin.com/in/tahsin-soyak-669650231">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://medium.com/@tahsinsoyakk">Medium</a> &nbsp;|&nbsp;
-  <a href="https://stackoverflow.com/users/16888689">Stack Overflow</a> &nbsp;|&nbsp;
-  <a href="https://twitter.com/tahsinsoyakk">Twitter</a>
-</p>
+##### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://linkedin.com/in/tahsin-soyak-669650231)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E?logo=medium)](https://medium.com/@tahsinsoyakk)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?logo=twitter)](https://twitter.com/tahsinsoyakk)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:tahsinsoyakk@gmail.com)
 
-<h2>💻 Tech Stack</h2>
-<p>Here's a snapshot of my tech stack:</p>
 
-<p>
-  <strong>Programming Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-</p>
+##### 🤖 AI/ML Stack
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FFFF00?logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4g2C?logo=PyTorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7e31E?logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?logo=opencv)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FrD21E?logo=huggingface)
+![Transformers](https://img.shields.io/badge/Transformers-%23aF6F00?logo=pytorch)
+![NLP](https://img.shields.io/badge/NLP-%230075C3?logo=natural-language-processing)
+![LLM](https://img.shields.io/badge/LLM-%23000000?logo=openai)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-%23430098?logo=sentiment-very-satisfied)
+---
 
-<p>
-  <strong>Web Development:</strong><br>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
-</p>
+<div align="center">
 
-<p>
-  <strong>Cloud & Deployment:</strong><br>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
-</p>
-
-<p>
-  <strong>Frameworks & Libraries:</strong><br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" />
-</p>
-
-<p>
-  <strong>Databases:</strong><br>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
-</p>
-
-<p>
-  <strong>Machine Learning & Data Science:</strong><br>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
-</p>
-
-<p>
-  <strong>Web Scraping:</strong><br>
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-%2300FF00.svg?style=flat" />
-  <img src="https://img.shields.io/badge/Requests-%23000000.svg?style=flat" />
-  <img src="https://img.shields.io/badge/Selenium-%23000000.svg?style=flat" />
-</p>
-
-<p>
-  <strong>Other Tools:</strong><br>
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi" />
-  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white" />
-</p>
-
+#### 🏆 Trophy & Streak
 <div>
-  <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="">
-      <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tahsinsoyak's streak" src="https://streak-stats.demolab.com/?user=tahsinsoyak&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=tahsinsoyak&theme=onedark&hide_border=true" alt="streak" height="192px">
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tahsinsoyak&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="trophy"height="192px">
+  </a>
 </div>
 
+#### 📈 Overview & Languages
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tahsinsoyak&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" height="192px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinsoyak&layout=compact&theme=onedark&hide_border=true&hide=html,css" height="192px">
 </div>
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahsinsoyak&theme=react-dark&hide_border=true&area=true&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+---
+
+#### 📚 Learning Journey
+- **Current Focus**: LLM Agents & Advanced Prompt Engineering & Multimodal AI & Deep Learning
+- **Recent Certifications**:
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-LLM%20Cert-%234285F4)
+  ![NVIDIA](https://img.shields.io/badge/NVIDIA-Jetson%20Nano-%2376B900)
+  ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning-Finetuning%20LLMs-%230075ff)
+
+#
+
+#### 🏅 Leadership & Community
+- **Founder**: AI Society @ Yozgat Bozok University (25+ members)
+- **Microsoft Ambassador**: Organized 3+ AI workshops
+- **Open Source**: Contributed to 5+ ML libraries
+#### 🌍 Languages
+![Turkish](https://img.shields.io/badge/Turkish-Native-FF0000?logo=duolingo)
+![English](https://img.shields.io/badge/English-Fluent-00A1E9?logo=duolingo)
+![Dutch](https://img.shields.io/badge/Dutch-Elementary-FF8000?logo=duolingo)
+![German](https://img.shields.io/badge/German-Elementary-000000?logo=duolingo)
+#
+
+#### 📬 Let's Collaborate!
+- 💬 Ask me about **LLM Optimization**, **Computer Vision Pipelines**, or **AI Products**
+- 📫 Reach me: [Email](mailto:tahsinsoyakk@gmail.com) | [LinkedIn](https://linkedin.com/in/tahsinsoyak)
+- 🔗 Portfolio: [tahsinsoyak.com](https://yourportfolio.com) (Coming Soon)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+</p>
