@@ -35,17 +35,17 @@
 <div>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=tahsinsoyak&theme=onedark&hide_border=true" alt="streak" height="192px">
+    <img src="https://streak-stats.demolab.com?user=tahsinsoyak&theme=onedark&hide_border=true" alt="streak" height="172px">
   </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tahsinsoyak&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="trophy"height="192px">
+    <img src="https://github-profile-trophy.vercel.app/?username=tahsinsoyak&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="trophy"height="172px">
   </a>
 </div>
 
 #### 📈 Overview & Languages
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tahsinsoyak&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" height="192px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinsoyak&layout=compact&theme=onedark&hide_border=true&hide=html,css" height="192px">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahsinsoyak&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" height="172px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinsoyak&layout=compact&theme=onedark&hide_border=true&hide=html,css" height="172px">
 </div>
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahsinsoyak&theme=react-dark&hide_border=true&area=true&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
