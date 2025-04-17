@@ -65,7 +65,6 @@
 #### 🏅 Leadership & Community
 - **Founder**: AI Society @ Yozgat Bozok University (25+ members)
 - **Microsoft Ambassador**: Organized 3+ AI workshops
-- **Open Source**: Contributed to 5+ ML libraries
 #### 🌍 Languages
 ![Turkish](https://img.shields.io/badge/Turkish-Native-FF0000?logo=duolingo)
 ![English](https://img.shields.io/badge/English-Fluent-00A1E9?logo=duolingo)
