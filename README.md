@@ -75,7 +75,7 @@
 #### 📬 Let's Collaborate!
 - 💬 Ask me about **LLM Optimization**, **Computer Vision Pipelines**, or **AI Products**
 - 📫 Reach me: [Email](mailto:tahsinsoyakk@gmail.com) | [LinkedIn](https://linkedin.com/in/tahsinsoyak)
-- 🔗 Portfolio: [tahsinsoyak.com](https://yourportfolio.com) (Coming Soon)
+- 🔗 Portfolio: [tahsinsoyak.github.io]((https://tahsinsoyak.github.io/)) (Coming Soon)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
