@@ -5,7 +5,7 @@
 [![Medium Follow](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@tahsinsoyakk)
 
 - 🏆 6x Honor Certificate Recipient | Microsoft Student Ambassador
-- � 2+ Years Experience in AI Development | 11+ Production Projects
+- � 5+ Years Experience in AI Development | 11+ Production Projects
 - 📝 Published Researcher in Computer Vision & ML Applications
 - 🏅 Certified in LLMs (Google), TensorFlow (DeepLearning.AI), MLOps (NVIDIA), AI (Stanford University)
 
