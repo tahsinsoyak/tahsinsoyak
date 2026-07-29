@@ -9,6 +9,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Production+LLM+agents%2C+RAG+%26+multi-agent+systems;Fine-tuning+LLMs+%C2%B7+LoRA%2FPEFT+%C2%B7+LLMOps;Computer+Vision+%C2%B7+NLP+%C2%B7+Applied+ML;MSc+Computer+Engineering+%C2%B7+3.96+GPA" alt="Typing SVG" />
 </a>
 
+<!-- Profile stats -->
+[![Profile Views](https://komarev.com/ghpvc/?username=tahsinsoyak&label=Profile%20Views&color=1F6FEB&style=flat-square)](https://github.com/tahsinsoyak)
+[![GitHub Followers](https://img.shields.io/github/followers/tahsinsoyak?label=Followers&style=flat-square&color=1F6FEB)](https://github.com/tahsinsoyak?tab=followers)
+[![Medium](https://img.shields.io/badge/Medium-Follow-1F6FEB?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@tahsinsoyakk)
+
 </div>
 
 <!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
@@ -18,6 +23,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://tahsinsoyak.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tahsinsoyakk)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=N744gYwAAAAJ)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tahsinsoyak)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tahsinsoyak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahsinsoyakk@gmail.com)
 
 </div>
